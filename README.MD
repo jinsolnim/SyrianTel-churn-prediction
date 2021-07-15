@@ -73,7 +73,7 @@ Total Charge of the bill is one of the biggest reason that people are cancelling
 
 ![image1](./images/7.png)
 
-Yes. My model predicted correctly that 564 customers are staying and 83 customers are going to churn and predicted incorrectly that 2 customers are staying and 18 customers are leaving. 
+Yes. My model predicted correctly that 565 customers are staying and 83 customers are going to churn and predicted incorrectly that 1 customers are staying and 18 customers are leaving. 
 <br>
 <br>
 
