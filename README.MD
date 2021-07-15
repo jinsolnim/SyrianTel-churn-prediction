@@ -26,13 +26,20 @@
 <br>
 ▶ Dataset contained 21 columns and 3333 rows
 <br>
+▶ Highlighting some of the columns
+<br>
+![image1](./images/5.png)
+<br>
+▶ Using more phone increases the charge.
+<br>
+![image1](./images/1.png)
+<br>
+▶ It seems like churn increases as total usage of the phone increases.
+<br>
 <br>
 ## ●Results●
-
-![image1](./images/1.png)
-
 <br>
-▶The **Random Forest Classifier model** is 96.85% accurate in classifying churn of the customer. It predicted correctly that 564 customers are staying and 83 customers are going to churn and predicted incorrectly that 2 customers are staying and 18 customers are leaving. 
+▶The **Random Forest Classifier model** is 96.85% accurate in classifying churn of the customer. It predicted correctly that 565 customers are staying and 83 customers are going to churn and predicted incorrectly that 1 customers are staying and 18 customers are leaving. 
 <br>
 <br>
 ▶Answering Questions:
@@ -44,7 +51,9 @@
 <br>
 <br>
 ② What are the top 5 reasons that people are canceling?
-![image2](./images/top10.png)
+
+![image2](./images/3.png)
+
 
 <br>
 Total Charges, Customer Service Calls, Total Day Minutes, Total Minutes, and Total Day Charge
@@ -62,7 +71,7 @@ Total Charge of the bill is one of the biggest reason that people are cancelling
 <br>
 ⑤ Can the business predict customers who are staying and leaving?
 
-![trained model](./images/finaltrained.png)
+![image1](./images/7.png)
 
 Yes. My model predicted correctly that 564 customers are staying and 83 customers are going to churn and predicted incorrectly that 2 customers are staying and 18 customers are leaving. 
 <br>
