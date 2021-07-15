@@ -1,4 +1,5 @@
 #  SyriaTel Customer Churn Prediction
+![Alt Text](https://media.giphy.com/media/StcrDoMb4eSXn80J0J/giphy.gif)
 
 **By**: Jinsol Cantrall
 ****
@@ -24,18 +25,12 @@
 ▶ **SyriaTel** dataset was obtained from https://www.kaggle.com/becksddf/churn-in-telecoms-dataset
 <br>
 ▶ Dataset contained 21 columns and 3333 rows
-
-
-## Methods
-Used OSEMN Method:
-
-- Obtain
-- Scrub
-- Explore
-- Model
-- iNterpret
-
+<br>
+<br>
 ## ●Results●
+
+![image1](./images/1.png)
+
 <br>
 ▶The **Random Forest Classifier model** is 96.85% accurate in classifying churn of the customer. It predicted correctly that 564 customers are staying and 83 customers are going to churn and predicted incorrectly that 2 customers are staying and 18 customers are leaving. 
 <br>
@@ -49,6 +44,8 @@ Used OSEMN Method:
 <br>
 <br>
 ② What are the top 5 reasons that people are canceling?
+![image2](./images/top10.png)
+
 <br>
 Total Charges, Customer Service Calls, Total Day Minutes, Total Minutes, and Total Day Charge
 <br>
@@ -64,10 +61,15 @@ Total Charge of the bill is one of the biggest reason that people are cancelling
 <br>
 <br>
 ⑤ Can the business predict customers who are staying and leaving?
-<br>
+
+![trained model](./images/finaltrained.png)
+
 Yes. My model predicted correctly that 564 customers are staying and 83 customers are going to churn and predicted incorrectly that 2 customers are staying and 18 customers are leaving. 
+<br>
+<br>
 
-
+## ●Next Steps●
+This dataset is too small to generallize everything. Improving the size of dataset would give the business better idea of the problems. Collect more information about the customers and see if churn rate could be improved.
 
 
 
